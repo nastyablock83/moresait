@@ -29,7 +29,7 @@ nav a {
 
 nav a:hover {
     color: #6b4e2e;
-
+}
 .main-content {
     display: flex;
     padding: 20px;
@@ -44,6 +44,7 @@ nav a:hover {
     width: 75%;
     padding: 10px;
     background-color: #fffaf3;
+}
 
 footer {
     background-color: #b48a60;
